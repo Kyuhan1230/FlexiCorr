@@ -1,0 +1,20 @@
+flexicorr/
+├── LICENSE
+├── README.md
+├── requirements.txt
+├── setup.py
+├── docs/
+│   ├── benchmark_results.md
+│   └── test_results.md
+├── tests/
+│   ├── __init__.py
+│   └── test_correlation.py
+└── flexicorr/
+    ├── __init__.py
+    ├── calculator.py
+    ├── benchmarks/
+    │   ├── __init__.py
+    │   └── benchmark.py
+    └── utils/
+        ├── __init__.py
+        └── memory_tracker.py
